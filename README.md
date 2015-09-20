@@ -1,2 +1,2 @@
 # angularjs
-Experimentos e  Estudos em Angular JS
+Experimentos e  Estudos com Angular JS
